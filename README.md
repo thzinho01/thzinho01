@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**thzinho01/thzinho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Thalysson Ruan;
 
-Here are some ideas to get you started:
+Sou aluno do primeiro ano;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também estou aprendendo linguagem de programação;
+
+Já desenvolvi algumas ações de programação, veja aqui um deles;
+
+https://cursos.alura.com.br/course/logica-programacao-comece-jogo-pong-javascript
+
+entre em contato comigo no instagram @thallysson_03;
+
+Sp💸
+
+2008
+
+Corpos exuberantes mentes entediantes🍀...
